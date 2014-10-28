@@ -1,0 +1,130 @@
+\documentclass{book}
+\usepackage{graphicx}
+\usepackage{appendix}
+\usepackage{hyperref}
+\usepackage{listings}
+\usepackage{color}
+\definecolor{mylight}{rgb}{0.9,0.9,0.9}
+\definecolor{mygreen}{rgb}{0,0.6,0}
+\definecolor{myblue}{rgb}{0,0,0.6}
+\definecolor{mygray}{rgb}{0.6,0.6,0.6}
+\definecolor{myviolet}{rgb}{0.6,0,0.6}
+\lstset{ %
+backgroundcolor=\color{mylight}, %
+basicstyle=\ttfamily\fontsize{8pt}{8pt}, %
+breakatwhitespace=false, %
+breaklines=true, %
+captionpos=b, %
+commentstyle=\color{mygreen}, %
+frame=single, %
+keywordstyle=\color{myblue}, %
+language=Python, %
+numbers=left, %
+numbersep=5pt, %
+numberstyle=\tiny\color{mygray}, %
+showspaces=false, %
+tabsize=2, %
+stringstyle=\color{myviolet} %
+}
+\parindent0ex
+\parsep1ex
+\parskip1ex
+\title{Neural Computation and Self Organization \\ Lecture Notes}
+\author{Thomas M. Breuel}
+\begin{document}
+\maketitle
+\tableofcontents
+
+\part{Neural Computation}
+
+\chapter{Neurons}
+\include{01-neurons}
+
+\chapter{Neurophysiology}
+\include{02-neurophysiology}
+
+\chapter{Neuron Models}
+\include{03-computational-models-of-neurons}
+
+\chapter{Computational Universality}
+\include{04-linear-threshold-units}
+
+\chapter{Dynamics of Coupled Neurons}
+\include{06-dynamics-of-networks}
+
+\chapter{Associative Memories}
+\include{08-associative-memories}
+
+\part{Supervised Learning}
+
+\chapter{Bayesian Decision Theory}
+\include{12-bayesian-decision-theory}
+\include{14-bayesian-parameter-estimation}
+
+\chapter{Introduction to Perceptrons}
+\include{09-linear-threshold-classification}
+
+\chapter{Review: Bayesian Decision Theory}
+\include{10-bayesian-decision-theory}
+
+\chapter{Perceptron Learning}
+\include{12-linear-threshold-classification}
+\include{13-perceptrons}
+
+\chapter{Linear Least Squares}
+\include{15-linear-lsq}
+
+\chapter{Logistic Regression}
+\include{16-logistic-regression-grad}
+
+\chapter{Multilayer Perceptrons}
+\include{19-mlp-background}
+\include{20-intro-mlp}
+
+\chapter{Posterior Probabilities from Multilayer Perceptrons}
+\include{25-mlp-posterior}
+
+\chapter{Maximum Likelihood Estimation}
+\include{90-bayesian-parameter-estimation}
+\include{30-mlp-ml}
+
+\chapter{Convolutional Neural Networks}
+\include{50-simple-convnnet}
+\include{51-simple-convnet-threshold}
+\include{55-conv-multilayer2}
+
+\part{Unsupervised Learning}
+
+\chapter{Principal Component Analysis}
+\include{30-pca}
+\include{35-incremental-pca}
+
+\chapter{$k$-Means and Expectation Maximization}
+\include{40-kmeans-2d}
+\include{41-em-example}
+\include{42-kmeans-and-incremental}
+\include{44-kmeans-again}
+
+\chapter{Self-Organizing Maps}
+\include{46-som-full}
+
+\part{Additional Materials}
+
+\appendix
+
+\chapter{Deskewing}
+\include{91-mnist-deskew}
+
+\chapter{Outline and Review}
+\include{92-outline-review}
+
+%\chapter{Game Theory}
+%\include{95-game-theory}
+
+\chapter{Sequence Learning}
+\include{98-sequence-learning-tasks}
+
+\chapter{Sequence Modeling}
+\include{97-sequence-modeling}
+
+\end{document}

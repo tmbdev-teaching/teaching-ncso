@@ -1,0 +1,694 @@
+changeset:   84:ab7ec6804867
+tag:         tip
+user:        Tom <tmbdev@gmail.com>
+date:        Tue Oct 28 14:44:35 2014 -0700
+files:       mnist.h5
+description:
+cleanup
+
+
+changeset:   83:66c05180973b
+user:        Tom <tmbdev@gmail.com>
+date:        Fri Oct 24 01:29:06 2014 -0700
+files:       README.md
+description:
+added readme
+
+
+changeset:   82:da0a29c7d205
+user:        Tom <tmbdev@gmail.com>
+date:        Fri Oct 24 00:33:21 2014 -0700
+files:       03-computational-models-of-neurons.ipynb Figures/izh-parameters.png contributors.txt
+description:
+added contributors
+
+
+changeset:   81:8d2a3634821e
+user:        Tom <tmb@ixion.local>
+date:        Fri Jul 19 15:13:12 2013 +0200
+files:       98-sequence-learning-tasks.ipynb
+description:
+cleanup
+
+
+changeset:   80:764a15e162b1
+user:        Tom <tmb@ixion.local>
+date:        Fri Jul 19 15:13:04 2013 +0200
+files:       95-game-theory.ipynb 97-sequence-modeling.ipynb ncso.tex slides-rnn.odp
+description:
+cleanup
+
+
+changeset:   79:174712359bb1
+user:        Tom <tmb@ixion.local>
+date:        Tue Jul 09 13:01:38 2013 +0200
+files:       slides-attention.odp slides-attention.pdf slides-psychobj.pdf slides-recognition.pdf
+description:
+slides
+
+
+changeset:   78:3eca5d842bc2
+user:        Tom <tmb@ixion.local>
+date:        Tue Jul 09 12:47:32 2013 +0200
+files:       slides-attention.odp
+description:
+attention slides
+
+
+changeset:   77:fe5511979e7d
+user:        Tom <tmb@ixion.local>
+date:        Wed Jul 03 13:01:01 2013 +0200
+files:       slides-psychobj.odp
+description:
+slides
+
+
+changeset:   76:03869f472938
+user:        Tom <tmb@ixion.local>
+date:        Tue Jun 25 12:10:26 2013 +0200
+files:       slides-recognition.odp
+description:
+cleanup
+
+
+changeset:   75:daa4e6541db4
+user:        Tom <tmb@ixion.local>
+date:        Tue Jun 25 11:53:14 2013 +0200
+files:       slides-psychobj.odp slides-recognition.odp
+description:
+updated
+
+
+changeset:   74:2e5b55b3cd36
+user:        Tom <tmb@ixion.local>
+date:        Tue Jun 25 09:23:18 2013 +0200
+files:       slides-recognition.odp
+description:
+modified slides
+
+
+changeset:   73:0a0acc80fadd
+user:        Tom <tmb@ixion.local>
+date:        Tue Jun 11 13:21:58 2013 +0200
+files:       38-pca.ipynb 40-kmeans-2d.ipynb 41-em-example.ipynb 42-kmeans-and-incremental.ipynb 44-kmeans-again.ipynb 46-som-full.ipynb old/44-kmeans-again.ipynb
+description:
+lecture
+
+
+changeset:   72:f4bf878a9b3c
+user:        Tom <tmb@ixion.local>
+date:        Tue Jun 04 13:30:27 2013 +0200
+files:       27-simple-convnnet.ipynb 28-simple-convnet-threshold.ipynb 29-conv-multilayer2.ipynb 30-pca.ipynb 35-incremental-pca.ipynb 38-pca.ipynb 40-kmeans-2d.ipynb 50-simple-convnnet.ipynb 51-simple-convnet-threshold.ipynb old/32-rnn.ipynb old/39-incremental-pca.ipynb
+description:
+for lecture
+
+
+changeset:   71:af10c02f4530
+user:        Tom <tmb@ixion.local>
+date:        Tue Jun 04 02:00:41 2013 +0200
+files:       29-conv-multilayer2.ipynb 55-conv-multilayer2.ipynb
+description:
+cleanup
+
+
+changeset:   70:95335aff3473
+user:        Tom <tmb@ixion.local>
+date:        Tue May 28 13:33:45 2013 +0200
+files:       22-mlp-oop.ipynb 30-pca.ipynb 50-simple-convnnet.ipynb
+description:
+updated
+
+
+changeset:   69:3dcb79b96659
+user:        Tom <tmb@ixion.local>
+date:        Tue May 28 13:28:18 2013 +0200
+files:       22-mlp-oop.ipynb
+description:
+updated for lecture
+
+
+changeset:   68:8ef4d3ad63ce
+user:        Tom <tmb@ixion.local>
+date:        Tue May 28 13:28:11 2013 +0200
+files:       50-simple-convnnet.ipynb 51-simple-convnet-threshold.ipynb
+description:
+updated for lecture
+
+
+changeset:   67:bd2df558ae3c
+user:        Tom <tmb@ixion.local>
+date:        Tue May 21 11:44:50 2013 +0200
+files:       19-mlp-background.ipynb 20-intro-mlp.ipynb 25-mlp-posterior.ipynb ncso.tex
+description:
+updated lecture
+
+
+changeset:   66:b06d1b97f27c
+user:        Tom <tmb@ixion.local>
+date:        Wed May 15 03:28:33 2013 +0200
+files:       12-linear-threshold-classification.ipynb 19-mlp-background.ipynb 20-intro-mlp.ipynb
+description:
+cleanup
+
+
+changeset:   65:97c88f95a15f
+user:        Tom <tmb@ixion.local>
+date:        Tue May 14 12:56:09 2013 +0200
+files:       09-linear-threshold-classification.ipynb 10-bayesian-decision-theory.ipynb 12-bayesian-decision-theory.ipynb 12-linear-threshold-classification.ipynb 13-perceptrons.ipynb 15-linear-lsq.ipynb 16-logistic-regression-grad.ipynb ncso.tex
+description:
+updated for lecture
+
+
+changeset:   64:26c3aeec4d72
+user:        Tom <tmb@ixion.local>
+date:        Tue May 14 00:06:18 2013 +0200
+files:       10-perceptrons.ipynb 12-bayesian-decision-theory.ipynb 13-perceptrons.ipynb 14-bayesian-parameter-estimation.ipynb 90-bayesian-parameter-estimation.ipynb
+description:
+cleanup
+
+
+changeset:   63:c793334d8a89
+user:        Tom <tmb@ixion.local>
+date:        Wed May 08 23:27:31 2013 +0200
+files:       ncso.tex
+description:
+cleanup
+
+
+changeset:   62:98577d5f8195
+user:        Tom <tmb@ixion.local>
+date:        Wed May 08 23:18:45 2013 +0200
+files:       04-linear-threshold-units.ipynb
+description:
+split linear threshold units off
+
+
+changeset:   61:d3ff0d7f7a40
+user:        Tom <tmb@ixion.local>
+date:        Wed May 08 23:18:10 2013 +0200
+files:       06-dynamics-of-networks.ipynb 09-linear-threshold-classification.ipynb
+description:
+split linear threshold units off
+
+
+changeset:   60:56bed1769a60
+user:        Tom <tmb@ixion.local>
+date:        Tue May 07 13:11:30 2013 +0200
+files:       08-associative-memories.ipynb
+description:
+updated
+
+
+changeset:   59:fbda97466447
+user:        Tom <tmb@ixion.local>
+date:        Tue May 07 13:11:23 2013 +0200
+files:       04-linear-threshold-units.ipynb 06-dynamics-of-networks.ipynb
+description:
+updated
+
+
+changeset:   58:6a39a2a52d24
+user:        Tom <tmb@ixion.local>
+date:        Tue May 07 11:43:23 2013 +0200
+files:       06-networks-of-neurons.ipynb
+description:
+cleanup
+
+
+changeset:   57:c3ccd8aec98f
+user:        Tom <tmb@ixion.local>
+date:        Tue May 07 11:36:57 2013 +0200
+files:       05-associative-memories.ipynb 08-associative-memories.ipynb
+description:
+renamed
+
+
+changeset:   56:2c1b30d4601a
+user:        Tom <tmb@ixion.local>
+date:        Tue May 07 11:36:36 2013 +0200
+files:       05-associative-memories.ipynb 06-dynamics-of-networks.ipynb
+description:
+added emergent behaviors
+
+
+changeset:   55:baf4586c885f
+user:        Tom <tmb@ixion.local>
+date:        Tue May 07 04:30:49 2013 +0200
+files:       05-associative-memories.ipynb 06-networks-of-neurons.ipynb
+description:
+added networks of neurons
+
+
+changeset:   54:bff19d99eb06
+user:        Tom <tmb@ixion.local>
+date:        Mon May 06 11:45:11 2013 +0200
+files:       03-computational-models-of-neurons.ipynb 04-linear-threshold-units.ipynb 10-perceptrons.ipynb
+description:
+misc edits
+
+
+changeset:   53:7997f19e4ad5
+parent:      43:badb8635d21b
+user:        Tom <tmb@ixion.local>
+date:        Tue Apr 30 04:49:03 2013 +0200
+files:       03-computational-models-of-neurons.ipynb 04-linear-threshold-units.ipynb 05-associative-memories.ipynb ncso-lecture2.odp ncso-neurons-short.odp ncso-neurons1.odp ncso-neurons1a.odp ncso-neurons2.odp neurons1.odp old/ncso-lecture2.odp old/ncso-neurons-short.odp old/ncso-neurons1.odp old/ncso-neurons1a.odp old/ncso-neurons2.odp old/neurons1.odp
+description:
+added
+
+
+changeset:   52:059aa373a614
+user:        Tom <tmb@ixion.local>
+date:        Tue Apr 23 13:27:53 2013 +0200
+files:       03-computational-models-of-neurons.ipynb
+description:
+updates
+
+
+changeset:   51:0ff30fbafd69
+user:        Tom <tmb@ixion.local>
+date:        Tue Apr 23 13:22:29 2013 +0200
+files:       02-neurophysiology.ipynb 03-computational-models-of-neurons.ipynb
+description:
+changes
+
+
+changeset:   50:39385cf53c5d
+user:        Tom <tmb@ixion.local>
+date:        Tue Apr 23 13:12:31 2013 +0200
+files:       02-neurophysiology.ipynb
+description:
+updated
+
+
+changeset:   49:93dfa3d99ab8
+user:        Tom <tmb@ixion.local>
+date:        Tue Apr 23 13:12:19 2013 +0200
+files:       02-neurophysiology.ipynb
+description:
+updated
+
+
+changeset:   48:ec2773320d1d
+parent:      47:c691f00fe719
+parent:      43:badb8635d21b
+user:        Tom <tmb@ixion.local>
+date:        Tue Apr 23 12:44:02 2013 +0200
+files:       ncso.tex
+description:
+merged
+
+
+changeset:   47:c691f00fe719
+parent:      46:71b4cb1a75db
+parent:      41:2ef85b7a2997
+user:        Tom <tmb@ixion.local>
+date:        Tue Apr 23 12:39:50 2013 +0200
+description:
+merged
+
+
+changeset:   46:71b4cb1a75db
+parent:      45:21b7887a84aa
+parent:      28:0cf7543c62d9
+user:        Tom <tmb@ixion.local>
+date:        Tue Apr 23 12:39:37 2013 +0200
+description:
+merge
+
+
+changeset:   45:21b7887a84aa
+user:        Tom <tmb@ixion.local>
+date:        Tue Apr 23 12:39:10 2013 +0200
+files:       ncso.tex
+description:
+modified ncso for A4
+
+
+changeset:   44:8defe172b9cb
+parent:      40:52d303de1d67
+user:        Tom <tmb@ixion.local>
+date:        Tue Apr 23 12:34:20 2013 +0200
+files:       03-computational-models-of-neurons.ipynb
+description:
+updated
+
+
+changeset:   43:badb8635d21b
+user:        Tom <tmb@ixion.local>
+date:        Tue Apr 23 12:43:54 2013 +0200
+files:       Makefile ncso.tex
+description:
+smallish fixes
+
+
+changeset:   42:3f4d312f7fec
+user:        Tom <tmb@ixion.local>
+date:        Tue Apr 23 12:38:52 2013 +0200
+files:       .hgignore
+description:
+added .hgignore
+
+
+changeset:   41:2ef85b7a2997
+user:        Tom <tmb@ixion.local>
+date:        Tue Apr 23 12:37:43 2013 +0200
+files:       mkindex
+description:
+added mkindex
+
+
+changeset:   40:52d303de1d67
+user:        Tom <tmb@ixion.local>
+date:        Tue Apr 23 09:58:18 2013 +0200
+files:       Figures/10000000000000A100000044C9CDF10A.png Figures/10000000000000E3000000D3712F71C7.png Figures/10000000000000F300000036C602BA94.png Figures/100000000000010200000044C453B919.png Figures/100000000000012A000000FE454DBB3C.png Figures/1000000000000147000000EABC2F6D5A.png Figures/1000000000000158000001159A344612.png Figures/100000000000019500000117E015024D.png Figures/10000000000001A00000011CFF1FF099.png Figures/10000000000001B0000000B69640CCEE.png Figures/10000000000001C10000001A8ABB3C4B.png Figures/1000000000000222000000C0CBD0F413.png Figures/1000000000000260000000E2BEBB0690.png Figures/10000000000002650000010BBDEDA638.png Figures/1000000000000272000002D4B62C7BB1.png Figures/10000000000003F7000002A270B6F010.png Figures/FitzHugh_portrait.png Figures/action-potential.png Figures/conductances.png Figures/depolarization.png Figures/hbp.png Figures/hh-equiv.png Figures/hhmodel.png Figures/ipython-notebook.png Figures/izhikevich-justification.png Figures/macaque.png Figures/membrane-circuit.png Figures/membrane-potential-output.png Figures/membrane-potential.png Figures/membrane-signal-spread.png Figures/motor-neuron.png Figures/neocognitron.png Figures/nernst-potentials.png Figures/neural-circuit.png Figures/neural-circuits.png Figures/neuron-equivalence.png Figures/neuron-models.png Figures/neuron-on-chip.png Figures/neuron-r.png Figures/neuron-simple.png Figures/neuron-single-signal.png Figures/neuron-variety.png Figures/neuron.png Figures/neurons-vs-gates.png Figures/obama-brain.png Figures/patch-clamping.png Figures/potassium-channels.png Figures/receptor-types.png Figures/reflex-arc-signals.png Figures/reflex-arc.png Figures/retinotopy.png Figures/simulated-signal-spread.png Figures/synapse-types.png Figures/synaptic-cleft.png Figures/synaptic-integration.png Figures/synaptic-summation.png Figures/synaptic-transmission.png Figures/variability-of-response.png Figures/visual-pathway.png Figures/vlsi-block.png Figures/vlsi-gate.png Figures/vlsi-logic.png Figures/vlsi-software.png Figures/vlsi.png
+description:
+added figures
+
+
+changeset:   39:dbaaf0331fa8
+user:        Tom <tmb@ixion.local>
+date:        Tue Apr 23 08:45:07 2013 +0200
+files:       03-computational-models-of-neurons.ipynb
+description:
+updated models
+
+
+changeset:   38:c611d28d545e
+user:        Tom <tmb@ixion.local>
+date:        Tue Apr 23 08:32:33 2013 +0200
+files:       03-computational-models-of-neurons.ipynb
+description:
+updated models
+
+
+changeset:   37:d32b5bfe67d7
+user:        Tom <tmb@ixion.local>
+date:        Tue Apr 23 02:38:29 2013 +0200
+files:       00-introduction.ipynb 01-neurons.ipynb 02-neurophysiology.ipynb 03-computational-models-of-neurons.ipynb 12-bayesian-decision-theory.ipynb 14-bayesian-parameter-estimation.ipynb 91-mnist-deskew.ipynb 92-outline-review.ipynb 95-game-theory.ipynb A1-mnist-deskew.ipynb A2-outline-review.ipynb Makefile bayesian-decision-theory.ipynb bayesian-parameter-estimation.ipynb game-theory.ipynb ncso.tex
+description:
+more neuron
+
+
+changeset:   36:5f786299129b
+user:        Tom <tmb@ixion.local>
+date:        Tue Apr 09 09:33:52 2013 +0200
+files:       Makefile ncso.tex
+description:
+fixes
+
+
+changeset:   35:050a91273d2e
+user:        Tom <tmb@ixion.local>
+date:        Tue Apr 09 08:04:14 2013 +0200
+files:       01-neurons.ipynb 02-neurophysiology.ipynb 03-computational-models-of-neurons.ipynb ncso.tex
+description:
+updates
+
+
+changeset:   34:47eec1541f26
+user:        Tom <tmb@ixion.local>
+date:        Tue Apr 09 03:57:04 2013 +0200
+files:       Makefile ncso.tex
+description:
+modified
+
+
+changeset:   33:f332f7564d68
+user:        Tom <tmb@ixion.local>
+date:        Sun Apr 07 07:18:40 2013 +0200
+files:       Makefile
+description:
+added usable makefile
+
+
+changeset:   32:4c2ae726f203
+user:        Tom <tmb@ixion.local>
+date:        Sun Apr 07 07:11:31 2013 +0200
+files:       Makefile ncso.tex
+description:
+cleanup
+
+
+changeset:   31:e893ab04ef47
+user:        Tom <tmb@ixion.local>
+date:        Tue Jul 17 13:20:18 2012 +0200
+files:       game-theory.ipynb
+description:
+updates
+
+
+changeset:   30:9505c57e01cb
+user:        Tom <tmb@ixion.local>
+date:        Tue Jul 17 12:59:52 2012 +0200
+files:       game-theory.ipynb
+description:
+added game theory lecture
+
+
+changeset:   29:f2102c811b68
+parent:      23:deffbf652abf
+user:        Tom <tmb@ixion.local>
+date:        Tue Jul 10 13:15:05 2012 +0200
+files:       1989-jacobs-grouping.pdf 2001-koch-saliency.pdf PAPERS/1989-jacobs-grouping.pdf PAPERS/2001-koch-saliency.pdf bayesian-decision-theory.ipynb bayesian-parameter-estimation.ipynb
+description:
+added bayesian stuff
+
+
+changeset:   28:0cf7543c62d9
+parent:      27:3d3e6273167c
+parent:      23:deffbf652abf
+user:        Tom Breuel <tmb@iupr.com>
+date:        Tue Jul 03 12:45:44 2012 +0200
+description:
+merged
+
+
+changeset:   27:3d3e6273167c
+parent:      26:e86c3c83c903
+parent:      21:4e589e510124
+user:        Tom Breuel <tmb@iupr.com>
+date:        Tue Jun 26 13:20:04 2012 +0200
+description:
+merged
+
+
+changeset:   26:e86c3c83c903
+parent:      25:63d78a00f8b1
+parent:      18:44c6f864a164
+user:        Tom Breuel <tmb@iupr.com>
+date:        Tue Jun 19 13:23:28 2012 +0200
+files:       associative-memories.ipynb conv-multilayer2.ipynb em-example.ipynb intro-mlp.ipynb kmeans-2d.ipynb kmeans-again.ipynb kmeans.ipynb linear-lsq.ipynb logistic-regression-grad.ipynb mlp-posterior.ipynb mnist-deskew.ipynb outline-review.ipynb pca.ipynb perceptrons.ipynb simple-convnet-threshold.ipynb simple-convnnet.ipynb som-full.ipynb
+description:
+merged
+
+
+changeset:   25:63d78a00f8b1
+parent:      24:4743c30a9f5e
+parent:      16:220b6e267434
+user:        Tom Breuel <tmb@iupr.com>
+date:        Tue Jun 12 13:31:12 2012 +0200
+description:
+cleanup
+
+
+changeset:   24:4743c30a9f5e
+parent:      11:e5bb7a9d68bd
+user:        Tom Breuel <tmb@iupr.com>
+date:        Tue Jun 05 17:14:43 2012 +0200
+files:       Untitled0.ipynb
+description:
+cleanup
+
+
+changeset:   23:deffbf652abf
+user:        Tom <tmb@ixion.local>
+date:        Tue Jul 03 12:44:55 2012 +0200
+files:       1989-jacobs-grouping.pdf 2001-koch-saliency.pdf
+description:
+added pdfs
+
+
+changeset:   22:c508cc4b6789
+user:        Tom <tmb@ixion.local>
+date:        Tue Jul 03 12:39:06 2012 +0200
+files:       slides-attention.odp
+description:
+attention
+
+
+changeset:   21:4e589e510124
+user:        Tom <tmb@ixion.local>
+date:        Tue Jun 26 13:18:34 2012 +0200
+files:       slides-psychobj.odp
+description:
+update
+
+
+changeset:   20:25e392710b48
+user:        Tom <tmb@ixion.local>
+date:        Tue Jun 26 13:13:36 2012 +0200
+files:       slides-psychobj.odp
+description:
+next lecture
+
+
+changeset:   19:455e5109fc6c
+user:        Tom <tmb@ixion.local>
+date:        Tue Jun 26 10:54:20 2012 +0200
+files:       PAPERS/1992-bulthoff-view-interpolation.pdf PAPERS/1993-biederman.pdf PAPERS/1995-biederman-response.pdf PAPERS/1999-riesen-hierarchical.pdf PAPERS/2007-lecun-learning-generic.PDF PAPERS/2010-lecun-nips-learning-convolutional.pdf PAPERS/2010-pinto-comparing.pdf PAPERS/2011-pinto-why-is-hard.pdf
+description:
+added papers
+
+
+changeset:   18:44c6f864a164
+user:        Tom <tmb@ixion.local>
+date:        Tue Jun 19 12:57:43 2012 +0200
+files:       05-associative-memories.ipynb 42-kmeans-and-incremental.ipynb 42-kmeans.ipynb 50-simple-convnnet.ipynb 51-simple-convnet-threshold.ipynb 55-conv-multilayer2.ipynb A1-mnist-deskew.ipynb A2-outline-review.ipynb associative-memories.ipynb conv-multilayer2.ipynb mnist-deskew.ipynb outline-review.ipynb simple-convnet-threshold.ipynb simple-convnnet.ipynb slides-recognition.odp
+description:
+Cleanup, slides
+
+
+changeset:   17:075b4a4a5e01
+user:        Tom <tmb@ixion.local>
+date:        Sun Jun 17 20:37:42 2012 +0200
+files:       10-perceptrons.ipynb 15-linear-lsq.ipynb 16-logistic-regression-grad.ipynb 20-intro-mlp.ipynb 25-mlp-posterior.ipynb 30-pca.ipynb 35-incremental-pca.ipynb 40-kmeans-2d.ipynb 41-em-example.ipynb 42-kmeans.ipynb 44-kmeans-again.ipynb 46-som-full.ipynb Untitled0.ipynb em-example.ipynb intro-mlp.ipynb kmeans-2d.ipynb kmeans-again.ipynb kmeans.ipynb linear-lsq.ipynb logistic-regression-grad.ipynb mlp-posterior.ipynb pca.ipynb perceptrons.ipynb som-full.ipynb
+description:
+cleanup
+
+
+changeset:   16:220b6e267434
+user:        Tom <tmb@ixion.local>
+date:        Tue Jun 12 13:12:56 2012 +0200
+files:       intro-mlp.ipynb kmeans.ipynb som-full.ipynb
+description:
+more notebooks, including kmeans2d
+
+
+changeset:   15:a3d2861ea12f
+user:        Tom <tmb@ixion.local>
+date:        Tue Jun 12 12:38:33 2012 +0200
+files:       conv-multilayer2.ipynb kmeans-2d.ipynb kmeans-again.ipynb som-full.ipynb
+description:
+more notebooks, including kmeans2d
+
+
+changeset:   14:8e9b4cf91154
+user:        Tom <tmb@ixion.local>
+date:        Tue Jun 12 10:38:15 2012 +0200
+files:       conv-multilayer.ipynb conv-multilayer2.ipynb
+description:
+multilayer convolutional nnet
+
+
+changeset:   13:e7be9f9217a5
+user:        Tom <tmb@ixion.local>
+date:        Tue Jun 12 06:04:36 2012 +0200
+files:       conv-multilayer.ipynb simple-convnet-threshold.ipynb
+description:
+more notebooks
+
+
+changeset:   12:0d1d8b6cda8a
+user:        Tom <tmb@ixion.local>
+date:        Tue Jun 12 04:05:05 2012 +0200
+files:       Untitled0.ipynb simple-convnet-threshold.ipynb simple-convnnet.ipynb
+description:
+convnet
+
+
+changeset:   11:e5bb7a9d68bd
+user:        Tom <tmb@ixion.local>
+date:        Tue Jun 05 13:28:42 2012 +0200
+files:       kmeans.ipynb pca.ipynb
+description:
+updated
+
+
+changeset:   10:e240e6a09aa7
+user:        Tom <tmb@ixion.local>
+date:        Tue Jun 05 13:24:36 2012 +0200
+files:       em-example.ipynb kmeans.ipynb mnist-deskew.ipynb mnist.h5 pca.ipynb
+description:
+new notebooks
+
+
+changeset:   9:4de98f273cb3
+user:        Tom <tmb@ixion.local>
+date:        Tue Jun 05 10:02:47 2012 +0200
+files:       kmeans.ipynb mnist-deskew.ipynb mnist.h5
+description:
+added deskewing
+
+
+changeset:   8:f7dc7d920507
+user:        Tom <tmb@ixion.local>
+date:        Tue May 29 12:51:52 2012 +0200
+files:       mlp-posterior.ipynb outline-review.ipynb
+description:
+added new notebooks
+
+
+changeset:   7:10347a44a087
+user:        Tom <tmb@ixion.local>
+date:        Tue May 22 12:59:41 2012 +0200
+files:       outline-review.ipynb
+description:
+smallish changes
+
+
+changeset:   6:eddd29610f05
+user:        Tom <tmb@ixion.local>
+date:        Tue May 22 12:36:59 2012 +0200
+files:       linear-lsq.ipynb
+description:
+added linear lsq
+
+
+changeset:   5:d452d0ae5658
+user:        Tom <tmb@ixion.local>
+date:        Tue May 22 12:18:40 2012 +0200
+files:       Untitled0.ipynb outline-review.ipynb
+description:
+added some more notebooks
+
+
+changeset:   4:e223fb7004ba
+user:        Tom <tmb@ixion.local>
+date:        Tue May 22 12:04:04 2012 +0200
+files:       Untitled0.ipynb logistic-regression-grad.ipynb
+description:
+more editing
+
+
+changeset:   3:316e8ae122c4
+user:        Tom <tmb@ixion.local>
+date:        Tue May 22 11:52:22 2012 +0200
+files:       intro-mlp.ipynb mnist.h5 perceptrons.ipynb
+description:
+added mlp perceptrons
+
+
+changeset:   2:67ec13e96802
+user:        Tom <tmb@ixion.local>
+date:        Tue May 15 12:34:18 2012 +0200
+files:       associative-memories.ipynb
+description:
+change to images
+
+
+changeset:   1:63a79b9199db
+user:        Tom <tmb@ixion.local>
+date:        Tue May 15 04:14:06 2012 +0200
+files:       associative-memories.ipynb mnist.h5
+description:
+added exercises
+
+
+changeset:   0:348ee44bfb71
+user:        Tom <tmb@ixion.local>
+date:        Tue May 08 13:20:40 2012 +0200
+files:       ncso-lecture2.odp ncso-neurons-short.odp ncso-neurons1.odp ncso-neurons1a.odp ncso-neurons2.odp neurons1.odp
+description:
+initial
+
+
